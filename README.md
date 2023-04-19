@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vibhor2196
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working as a Data Scientist in EXL Services.
 - 💞️ I’m looking to collaborate on Projects Related to ML
 - 📫 How to reach me vibhornigam21@gmail.com
 
