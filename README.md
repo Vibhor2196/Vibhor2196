@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vibhor2196
-- 🌱 I’m currently working in AI.
-- 💞️ I’m looking to collaborate on Projects Related to ML
+- 🌱 I’m currently working in Gen AI.
+- 💞️ I’m looking to collaborate on Projects Related to AI/ML
 - 📫 How to reach me vibhornigam21@gmail.com
 
 <!---
